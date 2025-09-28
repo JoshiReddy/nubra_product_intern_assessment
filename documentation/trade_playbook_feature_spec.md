@@ -23,6 +23,3 @@ Trade Playbook is a guided platform to teach manual traders how to automate stra
 - User can deploy a strategy in paper trading mode.
 - UI must be intuitive and responsive (desktop + mobile).
 
-## Notes
-- Backend connection to live markets is out of scope for demo.
-- Mock engine provides quick simulation.
