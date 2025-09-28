@@ -1,5 +1,5 @@
 # nubra_product_intern_assessment
-# Nubra — Trade Playbook Feature
+# Trade Playbook Feature
 
 ## Overview
 The **Trade Playbook** feature is designed to help manual traders transition into algorithmic trading gradually. It combines **learning**, **simulation**, and **semi-automation**. Users can explore pre-built strategies, run step-by-step backtests, and eventually deploy live or paper trades with confidence.
